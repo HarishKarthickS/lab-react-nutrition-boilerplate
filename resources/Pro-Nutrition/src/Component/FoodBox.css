@@ -1,0 +1,43 @@
+#item-img {
+  height: 129px;
+  width: 129px;
+}
+#calInput {
+  height: 31px;
+  width: 174px;
+  border: 1px solid #6f00ff;
+}
+#calButt {
+  background-color: #6f00ffab;
+  height: 42px;
+}
+#name-cal {
+  display: flex;
+  flex-direction: column;
+}
+#Name {
+  font-size: 31px;
+  font-weight: 600;
+}
+#cal {
+  font-size: 20px;
+  font-weight: 400;
+}
+#item-subcontainer {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  background-color: rgba(0, 0, 0, 0.301);
+  width: 59vw;
+  height: 147px;
+}
+#item-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  width: 96vw;
+  margin-top: 75px;
+}
+p {
+  font-size: 21px;
+}
